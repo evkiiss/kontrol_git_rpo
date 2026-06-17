@@ -3,8 +3,8 @@ def show_project_title():
 
 
 def show_student_info():
-    student_name = "Фамилия Имя"
-    group = "Название группы"
+    student_name = "Булаева Ева"
+    group = "РПО/1, 1 курс"
     print(f"Student: {student_name}")
     print(f"Group: {group}")
 
